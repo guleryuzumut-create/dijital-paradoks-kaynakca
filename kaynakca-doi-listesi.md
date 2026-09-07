@@ -13,7 +13,7 @@
 | 7 | Bowen (2009) | 10.3316/QRJ0902027 |
 | 8 | Brynjolfsson (1993) | 10.1145/163298.163309 |
 | 9 | Buhalis (2020) | 10.1108/TR-06-2019-0258 |
-| 10 | Buhalis & Leung (2022) | 10.1108/IJCHM-04-2022-0497 |
+| 10 | Buhalis, O'Connor & Leung (2023) | 10.1108/IJCHM-04-2022-0497 |
 | 11 | Businesstravelnews (2025) | DOI yok (web) |
 | 12 | Cabiddu, De Carlo & Piccoli (2014) | 10.1016/j.annals.2014.06.003 |
 | 13 | Car, Pilepić Stifanich & Šimunić (2019) | 10.20867/tosee.05.42 |
