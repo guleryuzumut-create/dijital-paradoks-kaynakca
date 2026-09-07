@@ -4,7 +4,7 @@
 
 | # | Künye | DOI |
 |---|-------|-----|
-| 1 | Atar (2020) | 10.26677/TR1010.2020.417 ⚠ |
+| 1 | Atar (2020) | 10.26677/TR1010.2020.417 |
 | 2 | Bağçı & İçöz (2019) | 10.32572/guntad.578926 |
 | 3 | Talón-Ballestero vd. (2018), *Tourism Management* | 10.1016/j.tourman.2018.03.017 |
 | 4 | Başer & Olcay (2022) | 10.21547/jss.1084783 |
@@ -28,7 +28,7 @@
 | 22 | Erdem, Unur & Şeker (2022) | 10.32572/guntad.957321 |
 | 23 | Erkmen & Güler (2020) | DOI bulunamadı (dergi atamamış) |
 | 24 | Evisa (2025) | DOI yok (web) |
-| 25 | Faeni vd. (2023) | 10.1108/RIBS-08-2022-0078 ⚠ |
+| 25 | Faeni vd. (2023) | 10.1108/RIBS-08-2022-0078 |
 | 26 | Garcia vd. (2011) | 10.1007/s10115-010-0365-1 |
 | 27 | Gomez-Oliva vd. (2019) | 10.3390/su11143848 |
 | 28 | González-Reverté (2019) | 10.3390/su11236874 |
@@ -54,7 +54,7 @@
 | 48 | Schäfer & Hirsch (2017) | 10.1108/IJHMA-05-2016-0031 |
 | 49 | Sezgin & Karagöz (2021) | 10.47525/ulasbid.940930 |
 | 50 | Sigala (2020) | 10.1016/j.jbusres.2020.06.015 |
-| 51 | Snyder (2019) | 10.1016/j.jbusres.2019.07.039 ⚠ |
+| 51 | Snyder (2019) | 10.1016/j.jbusres.2019.07.039 |
 | 52 | Solow (1987) | DOI yok (gazete) |
 | 53 | Sönmez, Apostolopoulos & Tarlow (1999) | 10.1177/004728759903800104 |
 | 54 | Sucaklı & Güzel (2020) | DOI bulunamadı (dergi atamamış) |
@@ -68,7 +68,7 @@
 | 62 | Um & Chung (2021) | 10.1080/10941665.2019.1595691 |
 | 63 | UN Tourism (2025) | DOI yok (rapor/web) |
 | 64 | UN Tourism (2026) | DOI yok (rapor/web) |
-| 65 | UNWTO Barometer 22(1) (2024) | DOI bulunamadı ⚠ |
+| 65 | UNWTO Barometer 22(1) (2024) | 10.18111/wtobarometereng.2024.22.1.1 |
 | 66 | Van der Knaap (1999) | 10.1080/14616689908721294 |
 | 67 | Vaz & Machado (2022) | DOI yok (konferans bildirisi) |
 | 68 | Verma, Warrier, Bolia & Mehta (2022) | 10.1016/j.jjimei.2022.100085 |
@@ -79,12 +79,14 @@
 | 73 | Yapıcı (2022) | DOI bulunamadı (dergi atamamış) |
 | 74 | Zuboff (2019) | DOI yok (kitap) |
 
-## Ek teyit isteyenler (⚠)
+## Teyit geçmişi
 
-- **Atar (2020):** TRDizin ve ResearchGate aynı DOI'yi (10.26677/TR1010.2020.417) gösteriyor; yüksek güven ama dergi sayfasında listelenmediği için işaretlendi.
-- **Faeni vd. (2023):** Emerald'ın standart formatından türetildi; yayıncı sayfasından bir kez teyit edilmesi iyi olur.
-- **Snyder (2019):** Elsevier PII'sinden (S0148296319304564) türetildi; yaygın bu DOI ile kayıtlı.
-- **UNWTO Barometer 22(1):** Sayıya özel DOI doğrulanamadı; e-unwto.org/loi/wtobarometereng üzerinden bakılmalı.
+Önceden ⚠ ile işaretlenmiş dört kayıt bağımsız web kaynaklarından (DergiPark, Emerald, Elsevier, e-unwto.org) teyit edildi ve işaretler kaldırıldı:
+
+- **Atar (2020):** DergiPark'taki "Gelenekselden Dijitale Turizm Sektörü" makalesiyle doğrulandı.
+- **Faeni vd. (2023):** Emerald yayıncı sayfasıyla doğrulandı.
+- **Snyder (2019):** Journal of Business Research 104, 333-339 ile doğrulandı.
+- **UNWTO Barometer 22(1) (2024):** Önceden "DOI bulunamadı" olarak işaretliydi; gerçek DOI (10.18111/wtobarometereng.2024.22.1.1) e-unwto.org üzerinden bulunup eklendi.
 
 ## Künye düzeltmeleri (dikkat)
 
